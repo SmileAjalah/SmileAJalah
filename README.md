@@ -1,5 +1,9 @@
 ### P Minta Duit 💰
 
+<a href="https://github.com/zaazxz">
+    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmileAjalah&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&layout=compact&hide_border=true" />
+  </a>
+
 <!--
 **SmileAjalah/SmileAJalah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
