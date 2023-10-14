@@ -6,5 +6,5 @@
   </a>
 
 <a href="https://github.com/SmileAJalah">
-    <img align="center" height="175px"  src="http://github-readme-streak-stats.herokuapp.com?user=SmileAjalah&theme=dark&background=000000" />
+    <img align="center" height="175px"  src="http://github-readme-streak-stats.herokuapp.com?user=SmileAjalah&theme=dark&text_color=FFFFFF&bg_color=6c138f&title_color=94b4a4&layout=compact&hide_border=true" />
   </a>
