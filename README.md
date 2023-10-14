@@ -1,4 +1,4 @@
-e<h1 align="center">Hello 👋, I'm SmileAjalah</h1>
+<h1 align="center">Hello 👋, I'm SmileAjalah</h1>
 <h3 align="center">I Am Need A Money Not A Love</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smileajalah&label=Profile%20views&color=0e75b6&style=flat" alt="smileajalah" /> </p>
