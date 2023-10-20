@@ -1,5 +1,10 @@
 <h1 align="center">Hello 👋, I'm SmileAjalah</h1>
-<h3 align="center">I Am Need A Money Not A Love</h3>
+<p align="center">
+  <em>
+    My name is <b>SmileAjalah</b>, A boy who like <b>A Money</b> Not <b>A Love</b>
+    An aspiring <b>UI / UX Designer,</b>&nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> maybe we can work or learn together? hahaha.
+  <br>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smileajalah&label=Profile%20views&color=0e75b6&style=flat" alt="smileajalah" /> </p>
 
