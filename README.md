@@ -1,8 +1,7 @@
 <h1 align="center">Hello 👋, I'm SmileAjalah</h1>
 <p align="center">
   <em>
-    My name is <b>SmileAjalah</b>, A boy who like <b>A Money</b> Not <b>A Love</b>
-    An aspiring <b>UI / UX Designer,</b>&nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> maybe we can work or learn together? hahaha.
+    A boy who like <b>A Money</b> Not <b>A Love</b>
   <br>
 </p>
 
