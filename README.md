@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm SmileAjalah</h1>
+<h1 align="center">Hi, I'm Andikari</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+Creator+Or+Thief;I+Am+A+Programmer;I+Am+Need+A+Money+Not+A+Love;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+Creator+Or+Thief;I+Am+A+Programmer;My+Name+Is+A+Andikari+Not+A+Kari;&center=true&width=500&height=50"></a>
 </p>
 <p align="center">
   <em>
-    Hi, I'm <b>SmileAjalah</b> A boy who like <b>A Money</b> Not <b>A Love</b>
+    Hi, I'm <b>Andikari</b> A boy who like <b>A Money</b> Not <b>A Love</b>
   <br>
 </p>
 
