@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm <b>Andikari</b></h1>
-<p align="center">
+z<p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+Creator+Or+Thief;I+Am+A+Programmer;My+Name+Is+Andikari+Not+Kari;&center=true&width=500&height=50"></a>
 </p>
 <p align="center">
