@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm SmileAjalah</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=UI+/+UX+Designer;Full+Stack+Web+Developer;IT+Enthusiast;Artificial+Intelligence+Addicted;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+/+Creator+Or+Thief;I+Am+A+Programmer;I+Am;Need+A+Money+Not+A+Love;&center=true&width=500&height=50"></a>
 </p>
 <p align="center">
   <em>
