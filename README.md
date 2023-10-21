@@ -1,4 +1,4 @@
-<h1 align="center">Holla, I'm SmileAjalah</h1>
+<h1 align="center">Hi, I'm SmileAjalah</h1>
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+Creator+Or+Thief;I+Am+A+Programmer;I+Am+Need+A+Money+Not+A+Love;&center=true&width=500&height=50"></a>
 </p>
