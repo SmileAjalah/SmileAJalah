@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <em>
-    Hi, I'm <b>SmileAjalah</b>b> A boy who like <b>A Money</b> Not <b>A Love</b>
+    Hi, I'm <b>SmileAjalah</b> A boy who like <b>A Money</b> Not <b>A Love</b>
   <br>
 </p>
 
