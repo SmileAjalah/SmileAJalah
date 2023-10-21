@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **69Happy.Ajalah69@gmail.com**
 
-- ⚡ Fun fact **I Just A Normal Student**
+- ⚡ Fun fact **I Am Love Money Not You**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
